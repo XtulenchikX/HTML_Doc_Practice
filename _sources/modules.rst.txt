@@ -1,0 +1,9 @@
+HTML_DOC_Prac1
+==============
+
+.. toctree::
+   :maxdepth: 4
+
+   another_func
+   app
+   main
