@@ -1,0 +1,20 @@
+DELETE FROM user WHERE id <> 0; [29-04-2023 10:27:37] 
+ 
+SELECT * FROM user; [29-04-2023 10:27:37] 
+ 
+INSERT INTO user (name, height, created) VALUES  ('Petr', 1.6, '2023-03-04 12:15:20'), ('Ivan', 1.7, '2023-05-04 13:20:41'), ('Maks', 1.9, '2023-10-04 19:18:54'); [29-04-2023 10:27:59] 
+ 
+SELECT * FROM user; [29-04-2023 10:27:59] 
+ 
+INSERT INTO user (name, height, created) VALUES  ('Petr', 1.6, '2023-03-04 12:15:20'), ('Ivan', 1.7, '2023-05-04 13:20:41'), ('Maks', 1.9, '2023-10-04 19:18:54'); [20-10-2023 15:06:58] 
+ 
+SELECT * FROM user; [20-10-2023 15:06:58] 
+ 
+INSERT INTO user (name, height, created) VALUES  ('Petr', 1.6, '2023-03-04 12:15:20'), ('Ivan', 1.7, '2023-05-04 13:20:41'), ('Maks', 1.9, '2023-10-04 19:18:54'); [20-10-2023 15:07:47] 
+ 
+SELECT * FROM user; [20-10-2023 15:07:47] 
+ 
+INSERT INTO user (name, height, created) VALUES  ('Petr1', 1.6, '2023-03-04 12:15:20'), ('Ivan1', 1.7, '2023-05-04 13:20:41'), ('Maks1', 1.9, '2023-10-04 19:18:54'); [20-10-2023 15:08:54] 
+ 
+SELECT * FROM user; [20-10-2023 15:08:54] 
+ 
