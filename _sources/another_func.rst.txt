@@ -1,7 +1,0 @@
-another\_func module
-====================
-
-.. automodule:: another_func
-   :members:
-   :undoc-members:
-   :show-inheritance:
